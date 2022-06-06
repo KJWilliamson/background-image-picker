@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#background_img {
+    min-height: calc(100vh - 3rem);
+}
+
+/* UNSPLASH IMAGES */
+#picone_button {
+    background: #ff6666;
+    color: white;
+    border: #ff6666 solid 2px;
+  }
+.picone {
+    background: url('images/picone.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+#pictwo_button {
+    background:  #ff8c66;
+    color: white;
+    border:  #ff8c66 2px solid;
+}
+.pictwo {
+    background: url('images/pictwo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+#picthree_button {
+    background:  #ff8c66;
+    color: white;
+    border:  #ff8c66 2px solid;
+}
+.picthree {
+    background: url('images/picthree.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+#picfour_button {
+    background: #ffb366;
+    color: white;
+    border: #ffb366 2px solid;
+}
+.picfour {
+    background: url('images/picfour.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+#picfive_button {
+    background: #ffb366;
+    color: white;
+    border: #ffb366 2px solid;
+}
+.picfive {
+    background: url('images/picfive.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picsix_button {
+    background: #ffff66;
+    color: white;
+    border: #ffff66 2px solid;
+}
+.picsix {
+    background: url('images/picsix.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picseven_button {
+    background: #d9ff66;
+    color: white;
+    border: #d9ff66 2px solid;
+}
+.picseven {
+    background: url('images/picseven.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #piceight_button {
+    background: #d9ff66;
+    color: white;
+    border: #d9ff66 2px solid;
+}
+.piceight {
+    background: url('images/piceight.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  #picnine_button {
+    background: #8cff66;
+    color: white;
+    border: #8cff66 2px solid;
+}
+.picnine {
+    background: url('images/picnine.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #picten_button {
+    background: #66ff66;
+    color: white;
+    border: #66ff66 2px solid;
+}
+.picten {
+    background: url('images/picten.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #piceleven_button {
+    background: #66ff8c;
+    color: white;
+    border: #66ff8c solid 2px;
+  }
+
+  .piceleven {
+    background: url('images/piceleven.jpg');
+      background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #pictwelve_button {
+    background: #66ffb3;
+    color: white;
+    border: #66ffb3 2px solid;
+  }
+  
+  .pictwelve {
+    background: url('images/pictwelve.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  #picthirteen_button {
+    background: #66ffd9;
+    color: white;
+    border: #66ffd9 2px solid;
+}
+
+.picthirteen {
+    background: url("images/picthirteen.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#picfourteen_button {
+    background: #66ffff;
+    color: white;
+    border: #66ffff 2px solid;
+}
+
+.picfourteen {
+    background: url('images/picfourteen.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#picfifteen_button {
+    background: #66d9ff;
+    color: white;
+    border: #66d9ff 2px solid;
+  }
+  
+  .picfifteen {
+    background: url('images/picfifteen.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  #picsixteen_button {
+    background: #66b3ff;
+    color: white;
+    border: #66b3ff 2px solid;
+  }
+  
+  .picsixteen {
+    background: url('images/picsixteen.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+  
+  #picseventeen_button {
+    background: #668cff;
+    color: white;
+    border: #668cff 2px solid;
+  }
+  
+  .picseventeen {
+    background: url('images/picseventeen.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+  }
+
+  
