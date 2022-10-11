@@ -1,4 +1,5 @@
-# background-image-picker
+# On-demand background color changer for a client
+* Colorful summer design
 
 
 https://background-image-picker.netlify.app/
